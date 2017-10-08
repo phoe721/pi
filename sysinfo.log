@@ -1,0 +1,287 @@
+[2015-03-04 20:41:59] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-04 20:41:59] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-04 20:41:59] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-04 20:41:59] User: 6.27% System: 11.52%
+[2015-03-04 20:41:59] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-04 20:41:59] Total: 373M Used: 76M Free: 297M
+[2015-03-04 20:41:59] Converting file to picture
+[2015-03-04 20:42:03] Sending to framebuffer
+[2015-03-04 20:44:01] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-04 20:44:01] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-04 20:44:01] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-04 20:44:02] User: 5.20% System: 7.63%
+[2015-03-04 20:44:02] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-04 20:44:02] Total: 373M Used: 86M Free: 287M
+[2015-03-04 20:44:02] Converting file to picture
+[2015-03-04 20:44:04] Sending to framebuffer
+[2015-03-04 20:48:25] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-04 20:48:25] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-04 20:48:25] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-04 20:48:25] User: 7.53% System: 5.96%
+[2015-03-04 20:48:25] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-04 20:48:25] Total: 373M Used: 152M Free: 221M
+[2015-03-04 20:48:25] Converting file to picture
+[2015-03-04 20:48:28] Sending to framebuffer
+[2015-03-04 20:49:24] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-04 20:49:24] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-04 20:49:24] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-04 20:49:24] User: 7.45% System: 5.64%
+[2015-03-04 20:49:24] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-04 20:49:24] Total: 373M Used: 152M Free: 221M
+[2015-03-04 20:49:24] Converting file to picture
+[2015-03-04 20:49:27] Sending to framebuffer
+[2015-03-04 21:00:53] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-04 21:00:54] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-04 21:00:54] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-04 21:00:54] User: 0.00% System: 9.11%
+[2015-03-04 21:00:54] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-04 21:00:54] Total: 373M Used: 76M Free: 297M
+[2015-03-04 21:00:54] Converting file to picture
+[2015-03-04 21:00:58] Sending to framebuffer
+[2015-03-04 21:01:11] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-04 21:01:11] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-04 21:01:11] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-04 21:01:11] User: 0.00% System: 8.45%
+[2015-03-04 21:01:11] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-04 21:01:11] Total: 373M Used: 85M Free: 288M
+[2015-03-04 21:01:11] Converting file to picture
+[2015-03-04 21:01:14] Sending to framebuffer
+[2015-03-04 21:09:27] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-04 21:09:27] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-04 21:09:27] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-04 21:09:27] User: 0.00% System: 1.39%
+[2015-03-04 21:09:27] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-04 21:09:27] Total: 373M Used: 82M Free: 291M
+[2015-03-04 21:09:27] Converting file to picture
+[2015-03-04 21:09:30] Sending to framebuffer
+[2015-03-05 19:10:48] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:10:48] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:10:49] User: 0.00% System: 10.99%
+[2015-03-05 19:10:49] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:10:49] Total: 373M Used: 71M Free: 302M
+[2015-03-05 19:10:49] Converting file to picture
+[2015-03-05 19:10:53] Sending to framebuffer
+[2015-03-05 19:11:12] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:11:12] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:11:12] User: 0.00% System: 10.36%
+[2015-03-05 19:11:12] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:11:12] Total: 373M Used: 81M Free: 292M
+[2015-03-05 19:11:12] Converting file to picture
+[2015-03-05 19:11:15] Sending to framebuffer
+[2015-03-05 19:16:42] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:16:42] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:16:42] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-05 19:16:42] User: 4.63% System: 6.12%
+[2015-03-05 19:16:42] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:16:42] Total: 373M Used: 84M Free: 288M
+[2015-03-05 19:16:42] Converting file to picture
+[2015-03-05 19:16:45] Sending to framebuffer
+[2015-03-05 19:21:54] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:21:54] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:21:54] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-05 19:21:54] User: 3.33% System: 3.71%
+[2015-03-05 19:21:54] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:21:54] Total: 373M Used: 85M Free: 288M
+[2015-03-05 19:21:54] Converting file to picture
+[2015-03-05 19:21:57] Sending to framebuffer
+[2015-03-05 19:22:48] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:22:48] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:22:48] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-05 19:22:48] User: 3.45% System: 3.57%
+[2015-03-05 19:22:48] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:22:48] Total: 373M Used: 85M Free: 288M
+[2015-03-05 19:22:48] Converting file to picture
+[2015-03-05 19:22:50] Sending to framebuffer
+[2015-03-05 19:30:03] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:30:03] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:30:03] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-05 19:30:03] User: 2.63% System: 2.46%
+[2015-03-05 19:30:03] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:30:03] Total: 373M Used: 88M Free: 285M
+[2015-03-05 19:30:03] Converting file to picture
+[2015-03-05 19:30:05] Sending to framebuffer
+[2015-03-05 19:30:53] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:30:53] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:30:53] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-05 19:30:53] User: 2.73% System: 2.43%
+[2015-03-05 19:30:53] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:30:53] Total: 373M Used: 88M Free: 285M
+[2015-03-05 19:30:53] Converting file to picture
+[2015-03-05 19:30:55] Sending to framebuffer
+[2015-03-05 19:33:25] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:33:25] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:33:25] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-05 19:33:25] User: 2.67% System: 2.26%
+[2015-03-05 19:33:25] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:33:25] Total: 373M Used: 88M Free: 285M
+[2015-03-05 19:33:25] Converting file to picture
+[2015-03-05 19:33:27] Sending to framebuffer
+[2015-03-05 19:34:44] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:34:44] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:34:44] User: 0.00% System: 8.02%
+[2015-03-05 19:34:44] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:34:44] Total: 373M Used: 71M Free: 302M
+[2015-03-05 19:34:44] Converting file to picture
+[2015-03-05 19:34:47] Sending to framebuffer
+[2015-03-05 19:35:06] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:35:06] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:35:06] User: 0.00% System: 7.57%
+[2015-03-05 19:35:06] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:35:06] Total: 373M Used: 80M Free: 292M
+[2015-03-05 19:35:06] Converting file to picture
+[2015-03-05 19:35:08] Sending to framebuffer
+[2015-03-05 19:43:26] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:43:26] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:43:26] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-05 19:43:26] User: 0.00% System: 1.00%
+[2015-03-05 19:43:26] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:43:26] Total: 373M Used: 86M Free: 286M
+[2015-03-05 19:43:26] Converting file to picture
+[2015-03-05 19:43:28] Sending to framebuffer
+[2015-03-05 19:43:35] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:43:35] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:43:35] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-05 19:43:35] User: 0.00% System: 0.99%
+[2015-03-05 19:43:36] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:43:36] Total: 373M Used: 86M Free: 286M
+[2015-03-05 19:43:36] Converting file to picture
+[2015-03-05 19:43:37] Sending to framebuffer
+[2015-03-05 19:43:41] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:43:41] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:43:41] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-05 19:43:41] User: 0.00% System: 0.98%
+[2015-03-05 19:43:41] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:43:41] Total: 373M Used: 86M Free: 286M
+[2015-03-05 19:43:41] Converting file to picture
+[2015-03-05 19:43:43] Sending to framebuffer
+[2015-03-05 19:43:57] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:43:57] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:43:57] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-05 19:43:57] User: 0.00% System: 0.95%
+[2015-03-05 19:43:57] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:43:57] Total: 373M Used: 86M Free: 286M
+[2015-03-05 19:43:57] Converting file to picture
+[2015-03-05 19:43:59] Sending to framebuffer
+[2015-03-05 19:44:38] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:44:39] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:44:39] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-05 19:44:39] User: 0.00% System: 0.96%
+[2015-03-05 19:44:39] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:44:39] Total: 373M Used: 86M Free: 286M
+[2015-03-05 19:44:39] Converting file to picture
+[2015-03-05 19:44:41] Sending to framebuffer
+[2015-03-05 19:54:30] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:54:30] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:54:30] User: 0.00% System: 8.37%
+[2015-03-05 19:54:30] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:54:30] Total: 373M Used: 71M Free: 302M
+[2015-03-05 19:54:30] Converting file to picture
+[2015-03-05 19:54:33] Sending to framebuffer
+[2015-03-05 19:54:44] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:54:44] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:54:44] User: 0.00% System: 8.01%
+[2015-03-05 19:54:44] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:54:44] Total: 373M Used: 80M Free: 292M
+[2015-03-05 19:54:44] Converting file to picture
+[2015-03-05 19:54:46] Sending to framebuffer
+[2015-03-05 19:55:05] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 19:55:05] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 19:55:05] User: 0.00% System: 7.03%
+[2015-03-05 19:55:05] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 19:55:05] Total: 373M Used: 80M Free: 292M
+[2015-03-05 19:55:05] Converting file to picture
+[2015-03-05 19:55:07] Sending to framebuffer
+[2015-03-05 20:00:23] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 20:00:24] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 20:00:24] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-05 20:00:24] User: 4.48% System: 5.96%
+[2015-03-05 20:00:24] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 20:00:24] Total: 373M Used: 86M Free: 286M
+[2015-03-05 20:00:24] Converting file to picture
+[2015-03-05 20:00:26] Sending to framebuffer
+[2015-03-05 20:15:18] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 20:15:19] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 20:15:19] Neighbor IP: 192.168.8.5 MAC: 00:22:fb:3e:f7:36
+[2015-03-05 20:15:19] User: 12.48% System: 20.89%
+[2015-03-05 20:15:19] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 20:15:19] Total: 373M Used: 78M Free: 295M
+[2015-03-05 20:15:19] Converting file to picture
+[2015-03-05 20:15:21] Sending to framebuffer
+[2015-03-05 20:15:55] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 20:15:55] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-05 20:15:55] User: 0.00% System: 9.39%
+[2015-03-05 20:15:55] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 20:15:55] Total: 373M Used: 75M Free: 297M
+[2015-03-05 20:15:55] Converting file to picture
+[2015-03-05 20:16:18] Sending to framebuffer
+[2015-03-05 20:16:58] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-05 20:16:58] User: 0.00% System: 10.69%
+[2015-03-05 20:16:58] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-05 20:16:58] Total: 373M Used: 75M Free: 298M
+[2015-03-05 20:16:58] Converting file to picture
+[2015-03-05 20:17:01] Sending to framebuffer
+[2015-03-06 07:48:50] Interface: wlan0 IP: 192.168.8.10 Mask:255.255.255.0
+[2015-03-06 07:48:50] Neighbor IP: 192.168.8.1 MAC: bc:14:01:5e:cd:e2
+[2015-03-06 07:48:50] User: 0.00% System: 9.09%
+[2015-03-06 07:48:50] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-03-06 07:48:50] Total: 373M Used: 75M Free: 298M
+[2015-03-06 07:48:50] Converting file to picture
+[2015-03-06 07:48:53] Sending to framebuffer
+[2015-09-25 14:26:47] User: 0.00% System: 0.27%
+[2015-09-25 14:26:47] Total: 7.2G Used: 2.6G Available: 4.4G
+[2015-09-25 14:26:47] Total: 373M Used: 71M Free: 302M
+[2015-09-25 14:26:47] Converting file to picture
+[2015-09-25 14:26:49] Sending to framebuffer
+[2017-09-05 00:59:09] Interface: wlan0 IP: 192.168.168.17 Mask:255.255.255.0
+[2017-09-05 00:59:09] Neighbor IP: 192.168.168.1 MAC: 78:8d:f7:72:3a:12
+[2017-09-05 00:59:09] User: 0.00% System: 0.05%
+[2017-09-05 00:59:09] Total: 7.2G Used: 2.6G Available: 4.4G
+[2017-09-05 00:59:09] Total: 373M Used: 79M Free: 294M
+[2017-09-05 00:59:09] Converting file to picture
+[2017-09-05 14:05:45] Interface: wlan0 IP: 192.168.168.17 Mask:255.255.255.0
+[2017-09-05 14:05:45] Neighbor IP: 192.168.168.11 MAC: 74:d4:35:81:73:e2
+[2017-09-05 14:05:45] Neighbor IP: 192.168.168.1 MAC: 78:8d:f7:72:3a:12
+[2017-09-05 14:05:45] User: 0.09% System: 0.26%
+[2017-09-05 14:05:45] Total: 7.2G Used: 2.6G Available: 4.4G
+[2017-09-05 14:05:45] Total: 373M Used: 83M Free: 290M
+[2017-09-05 14:05:45] Converting file to picture
+[2017-09-05 14:05:48] Sending to framebuffer
+[2017-09-05 14:14:55] Interface: wlan0 IP: 192.168.168.17 Mask:255.255.255.0
+[2017-09-05 14:14:55] Neighbor IP: 192.168.168.1 MAC: 78:8d:f7:72:3a:12
+[2017-09-05 14:14:55] User: 0.00% System: 7.92%
+[2017-09-05 14:14:55] Total: 7.2G Used: 2.6G Available: 4.4G
+[2017-09-05 14:14:55] Total: 373M Used: 75M Free: 298M
+[2017-09-05 14:14:55] Converting file to picture
+[2017-09-05 14:14:57] Sending to framebuffer
+[2017-10-04 22:14:20] Interface: wlan0 IP: 192.168.168.22 Mask:255.255.255.0
+[2017-10-04 22:14:20] Neighbor IP: 192.168.168.1 MAC: 78:8d:f7:72:3a:12
+[2017-10-04 22:14:20] Neighbor IP: 192.168.168.20 MAC: 10:40:f3:91:8b:ee
+[2017-10-04 22:14:20] User: 0.00% System: 0.01%
+[2017-10-04 22:14:21] Total: 7.2G Used: 2.6G Available: 4.4G
+[2017-10-04 22:14:21] Total: 373M Used: 106M Free: 267M
+[2017-10-04 22:14:21] Converting file to picture
+[2017-10-04 22:14:23] Sending to framebuffer
+[2017-10-05 09:37:59] Interface: wlan0 IP: 192.168.168.22 Mask:255.255.255.0
+[2017-10-05 09:37:59] Neighbor IP: 192.168.168.1 MAC: 78:8d:f7:72:3a:12
+[2017-10-05 09:37:59] Neighbor IP: 192.168.168.20 MAC: 10:40:f3:91:8b:ee
+[2017-10-05 09:37:59] User: 0.00% System: 0.01%
+[2017-10-05 09:37:59] Total: 7.2G Used: 2.6G Available: 4.4G
+[2017-10-05 09:37:59] Total: 373M Used: 116M Free: 257M
+[2017-10-05 09:37:59] Converting file to picture
+[2017-10-05 09:38:01] Sending to framebuffer
+[2017-10-05 20:02:13] Interface: wlan0 IP: 192.168.168.22 Mask:255.255.255.0
+[2017-10-05 20:02:13] Neighbor IP: 192.168.168.1 MAC: 78:8d:f7:72:3a:12
+[2017-10-05 20:02:13] Neighbor IP: 192.168.168.20 MAC: 10:40:f3:91:8b:ee
+[2017-10-05 20:02:13] User: 0.00% System: 0.01%
+[2017-10-05 20:02:13] Total: 7.2G Used: 2.6G Available: 4.4G
+[2017-10-05 20:02:13] Total: 373M Used: 118M Free: 255M
+[2017-10-05 20:02:13] Converting file to picture
+[2017-10-05 20:02:15] Sending to framebuffer
+[2017-10-05 22:05:21] Interface: wlan0 IP: 192.168.168.22 Mask:255.255.255.0
+[2017-10-05 22:05:21] Neighbor IP: 192.168.168.1 MAC: 78:8d:f7:72:3a:12
+[2017-10-05 22:05:21] Neighbor IP: 192.168.168.11 MAC: 74:d4:35:81:73:e2
+[2017-10-05 22:05:21] User: 0.00% System: 0.76%
+[2017-10-05 22:05:21] Total: 7.2G Used: 2.8G Available: 4.1G
+[2017-10-05 22:05:21] Total: 373M Used: 337M Free: 36M
+[2017-10-05 22:05:21] Converting file to picture
+[2017-10-05 22:05:24] Sending to framebuffer

@@ -1,0 +1,15 @@
+##### Local Network Information #####
+Interface: wlan0 IP: 192.168.168.22 Mask: 255.255.255.0
+
+##### Neighbor Network Information #####
+Neighbor IP: 192.168.168.1 MAC: 78:8d:f7:72:3a:12
+Neighbor IP: 192.168.168.11 MAC: 74:d4:35:81:73:e2
+
+##### System CPU Information #####
+User: 0.00% System: 0.76%
+
+##### System Disk Information #####
+Total: 7.2G Used: 2.8G Available: 4.1G
+
+##### System Memory Information #####
+Total: 373M Used: 337M Free: 36M
